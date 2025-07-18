@@ -1,0 +1,1 @@
+Esse repositório possui o notebook utilizado para prototipar o trabalho de detecção de anomalias com características explicáveis, não contém o dataset MAFAULDA
